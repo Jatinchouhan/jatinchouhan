@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Chouhan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinchouhan&label=Profile%20views&color=0e75b6&style=flat" alt="jatinchouhan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@jatin36363453" target="blank"><img src="https://img.shields.io/twitter/follow/@jatin36363453?logo=twitter&style=for-the-badge" alt="@jatin36363453" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@jatin36363453" target="blank"><img src="https://img.shields.io/twitter/follow/@jatin36363453?logo=twitter&style=for-the-badge" alt="jatin36363453" /></a> </p>
 
 - 🔭 I’m currently working on **learning new skills.**
 
